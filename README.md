@@ -152,7 +152,7 @@ Distribuído sob licença MIT. Veja `LICENSE` para mais informações.
 **Gon Clean DM**  
 *Controle total sobre suas conversas no Discord*
 
-Desenvolvido com ❤️ por [@methzzy](https://github.com/methzzy)
+Desenvolvido por [@methzzy](https://github.com/methzzy)
 
 </div>
 
