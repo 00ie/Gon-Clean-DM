@@ -155,15 +155,3 @@ Distribuído sob licença MIT. Veja `LICENSE` para mais informações.
 Desenvolvido por [@methzzy](https://github.com/methzzy)
 
 </div>
-
----
-
-### 🎯 Próximas Atualizações
-
-- [ ] Interface web integrada
-- [ ] Agendamento de tarefas
-- [ ] Suporte a múltiplas contas
-- [ ] Estatísticas avançadas
-- [ ] Plugins e extensões
-
-*Versão 1.0.0 - Estável*
