@@ -1,0 +1,6 @@
+@echo off
+echo Instalando dependências...
+pip install -r requirements.txt
+echo Iniciando Gon Clean DM...
+python main.py
+pause
