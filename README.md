@@ -67,7 +67,7 @@ gon-clean-dm/
 
 ## Configuracao
 
-O token nao e salvo no pc. Ele fica apenas em memoria durante a execucao.
+O token nao e salvo no pc, ele fica apenas em memoria durante a execucao.
 
 ## Avisos Legais
 
